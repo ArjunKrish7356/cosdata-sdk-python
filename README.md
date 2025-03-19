@@ -1,15 +1,14 @@
+Here's the refined version of the documentation:
+
+---
+
 # COSDATA Vector Store (Python SDK)
 
-## How to install
+## How to Install
 
-Step 1: Clone the repository
-```
-git clone https://github.com/cosdata/cosdata-sdk-python.git
-```
-
-Step 2: Install the library 
+Install the library using a single command:  
 ```bash
-pip install -e .
+curl -sL https://github.com/ArjunKrish7356/cosdata-sdk-python/raw/main/install.sh | bash
 ```
 
 ## Usage
